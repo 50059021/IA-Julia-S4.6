@@ -1,0 +1,821 @@
+"Total Online: %d/%d"
+== "Total Online: %d/%d"
+
+"[AntiAfk][%s] Current Warning Number: %d"
+== "[AntiAfk][%s] Current Warning Number: %d"
+
+"[Golden Archer] You are strong now and don't need my help."
+== "[Golden Archer] You are strong now and don't need my help."
+
+"[Golden Archer] Your haven't renas in Inventory. Search renas and come back to me."
+== "[Golden Archer] Your haven't renas in Inventory. Search renas and come back to me."
+
+"[Golden Archer] Your Rena accepted. You have %d renas, for reward need %d more"
+== "[Golden Archer] Your Rena accepted. You have %d renas, for reward need %d more"
+
+"[Golden Archer] Thank you for renas! Take my rewards for you." 
+== "[Golden Archer] Thank you for renas! Take my rewards for you."
+
+"[Golden Archer] Added Coins:%d" 
+== "[Golden Archer] Added Coins:%d"
+
+"[Golden Archer] Added PCPoints:%d "
+== "[Golden Archer] Added PCPoints:%d"
+
+"[BanChat] Your chat is banned!" 
+== "[BanChat] Your chat is banned!"
+
+"[%s] Usage: %s"
+== "[%s] Usage: %s"
+
+"[%s] Function temporarily disabled."
+== "[%s] Function temporarily disabled."
+
+"[%s] You can't use this command."
+== "[%s] You can't use this command."
+
+"[%s] You haven't got enougth level."
+== "[%s] You haven't got enougth level."
+
+"[%s] You haven't got enougth money."
+== "[%s] You haven't got enougth money."
+
+"[%s] You need %d more PcPoints."
+=="[%s] You need %d more PcPoints."
+
+"[%s] You need %d more WCoins."
+== "[%s] You need %d more WCoins."
+
+"[%s] You need %d more WebPoints."
+== "[%s] You need %d more WebPoints."
+
+"[%s] You need %.2f more WebPoints."
+== "[%s] You need %.2f more WebPoints."
+
+"[%s] Player offline or doesn't exist!"
+== "[%s] Player offline or doesn't exist!"
+
+"[%s] You payed %d PcPoints"
+== "[%s] You payed %d PcPoints"
+
+"[%s] You payed %d WCoin"
+== "[%s] You payed %d WCoin"
+
+"[%s] You payed %d WebPoints"
+== "[%s] You payed %d WebPoints"
+
+"[%s] You payed %.2f WebPoints"
+== "[%s] You payed %.2f WebPoints"
+
+"[%s]: %s"
+== "[%s]: %s"
+
+"[Trace] You successfully traced to %s"
+== "[Trace] You successfully traced to %s"
+
+"[Trace] [Admin] %s traced to you"
+== "[Trace] [Admin] %s traced to you"
+
+"[Trace] [GM] %s traced to you"
+== "[Trace] [GM] %s traced to you"
+
+"[Track] You successfully summoned %s"
+== "[Track] You successfully summoned %s"
+
+"[Track] You was summoned to [Admin] %s"
+== "[Track] You was summoned to [Admin] %s"
+
+"[Track] You was summoned to [GM] %s"
+== "[Track] You was summoned to [GM] %s"
+
+"[Disconnect] %s was disconnected."
+== "[Disconnect] %s was disconnected."
+
+"[Disconnect] You was disconnected by [Admin] %s"
+== "[Disconnect] You was disconnected by [Admin] %s"
+
+"[Disconnect] You was disconnected by [GM] %s"
+== "[Disconnect] You was disconnected by [GM] %s"
+
+"[Move] Usage: %s <mapa>"
+== "[Move] Usage: %s <mapa>"
+
+"[Move] Fonomans can't move"
+== "[Move] Fonomans can't move"
+
+"[Move] This Map is for VIP users."
+== "[Move] This Map is for VIP users."
+
+"[Move] Turn on vip and try again."
+== "[Move] Turn on vip and try again."
+
+"[Move] You have low level!"
+== "[Move] You have low level!"
+
+"[Move] You have low level!"
+== "[Move] You have low level!"
+
+"[Move] Such map doesn't exists."
+== "[Move] Such map doesn't exists."
+
+"[Move] Unable to move Atlans with that pet."
+== "[Move] Unable to move Atlans with that pet."
+
+"[ANTI-FLOOD] You post is banned!"
+== "[ANTI-FLOOD] You post is banned!"
+
+"[ANTI-FLOOD] Wait %d sec until you can post!"
+== "[ANTI-FLOOD] Wait %d sec until you can post!"
+
+"[BanPost] %s Already Banned"
+== "[BanPost] %s Already Banned"
+
+"[BanPost] %s post banned."
+== "[BanPost] %s post banned."
+
+"[BanPost] Your post was banned by %s."
+== "[BanPost] Your post was banned by %s."
+
+"[BanPost] %s's post is not banned"
+== "[BanPost] %s's post is not banned"
+
+"[BanPost] %s's post sucsessfuly UnBanned!"
+== "[BanPost] %s's post sucsessfuly UnBanned!"
+
+"[BanChar] %s is already banned"
+== "[BanChar] %s is already banned"
+
+"[BanChar] %s banned till."
+== "[BanChar] %s banned till."
+
+"[BanChar] Your character was banned by %s."
+== "[BanChar] Your character was banned by %s."
+
+"[BanAcc] %s banned,"
+== "[BanAcc] %s banned,"
+
+"[BanAcc] Your character was banned by %s."
+== "[BanAcc] Your character was banned by %s."
+
+"[UnBanChar] %s is not baned"
+== "[UnBanChar] %s is not baned"
+
+"[UnBanChar] %s UnBaned"
+== "[UnBanChar] %s UnBaned"
+
+"[UnBanAcc] %s is not baned"
+== "[UnBanAcc] %s is not baned"
+
+"[UnBanAcc] %s UnBaned"
+== "[UnBanAcc] %s UnBaned"
+
+"Server Time & Date: %02d:%02d:%02d %02d-%02d-%02d."
+== "Server Time & Date: %02d:%02d:%02d %02d-%02d-%02d."
+
+"Level: %d, Master Level: %d"
+== "Level: %d, Master Level: %d"
+
+"[Nick] /drop <ItemCount> <Type> <Id> <Lvl> <Skill> <Luck> <Opt> <Exc> <Anc>"
+== "[Nick] /drop <ItemCount> <Type> <Id> <Lvl> <Skill> <Luck> <Opt> <Exc> <Anc>"
+
+"[Drop] Usage: [Nick] /drop <ItemCount> <Type> <Id> <Lvl> <Skill> <Luck> <Opt> <Exc> <Anc>"
+== "[Drop] Usage: [Nick] /drop <ItemCount> <Type> <Id> <Lvl> <Skill> <Luck> <Opt> <Exc> <Anc>"
+
+"[Drop] %d Item Created %d %d %d %d %d %d %d %d - Failed"
+== "[Drop] %d Item Created %d %d %d %d %d %d %d %d - Failed"
+
+"[Drop] %d Item Created to %s %d %d %d %d %d %d %d %d - Success"
+== "[Drop] %d Item Created to %s %d %d %d %d %d %d %d %d - Success"
+
+"[Drop] You recived %d from %s!"
+== "[Drop] You recived %d from %s!"
+
+"[Name] /setchar <Zen> <PCPnt> <WCoins> <AddPnt> <lvl> <Prof>"
+== "[Name] /setchar <Zen> <PCPnt> <WCoins> <AddPnt> <lvl> <Prof>"
+
+"[SetChar] Zen can't be less than 0 and more than 2000000000!"
+== "[SetChar] Zen can't be less than 0 and more than 2000000000!"
+
+"[SetChar] PCPnt can't be less than 0 and more than %d!"
+== "[SetChar] PCPnt can't be less than 0 and more than %d!"
+
+"[SetChar] WCoin can't be less than 0 and more than %d!"
+== "[SetChar] WCoin can't be less than 0 and more than %d!"
+
+"[SetChar] AddPnt can't be less than 0 and more than %d!"
+== "[SetChar] AddPnt can't be less than 0 and more than %d!"
+
+"[SetChar] Lvl can't be less than 0 and more than %d!"
+== "[SetChar] Lvl can't be less than 0 and more than %d!"
+
+"[SetChar] Lvl can't be less than 0 and more than 3!"
+== "[SetChar] Lvl can't be less than 0 and more than 3!"
+
+"[SetChar] Your character was edited, you must relogin!"
+== "[SetChar] Your character was edited, you must relogin!"
+
+"[SetChar] Your character was edited!"
+== "[SetChar] Your character was edited!"
+
+"[SetChar] You successfully changed %s character."
+== "[SetChar] You successfully changed %s character."
+
+"[SetChar] Your character was edited by %s, you must relogin!"
+== "[SetChar] Your character was edited by %s, you must relogin!"
+
+"[SetChar] Your character was edited by %s!"
+== "[SetChar] Your character was edited by %s!"
+
+"[ONLINE]: %d Player(s), %d GM(s)"
+== "[ONLINE]: %d Player(s), %d GM(s)"
+
+"[SetPK] PK lvl can't be less than 0 and more than 100!"
+== "[SetPK] PK lvl can't be less than 0 and more than 100!"
+
+"[SetPK] Your pk was changed to %d."
+== "[SetPK] Your pk was changed to %d."
+
+"[SetPK] You successfully changed %s pk to %d."
+== "[SetPK] You successfully changed %s pk to %d."
+
+"[SetPK] Your pk was changed to %d by %s."
+== "[SetPK] Your pk was changed to %d by %s."
+
+"[Reload] Data, Reset & MoveReq Reloaded."
+== "[Reload] Data, Reset & MoveReq Reloaded."
+
+"[Reload] Monsters Reloaded."
+== "[Reload] Monsters Reloaded."
+
+"[Reload] Shops & PCPoints Reloaded."
+== "[Reload] Shops & PCPoints Reloaded."
+
+"[Reload] GMSystem Reloaded."
+== "[Reload] GMSystem Reloaded."
+
+"[Reload] GMSystem is disabled"
+== "[Reload] GMSystem is disabled"
+
+[Reload] Item Drop Settings Reloaded.
+== "[Reload] Item Drop Settings Reloaded."
+
+"[Reload] IPBlock Reloaded."
+== "[Reload] IPBlock Reloaded."
+
+"[Reload] All Options Reloaded."
+== "[Reload] All Options Reloaded."
+
+"[Reload] Usage: /reload <Number>."
+== "[Reload] Usage: /reload <Number>."
+
+"[Skin] Your Skin was changed."
+== "[Skin] Your Skin was changed."
+
+"[Skin] You successfully change %s Skin."
+== "[Skin] You successfully change %s Skin."
+
+"[Skin] Your Skin was changed by %s."
+== "[Skin] Your Skin was changed by %s."
+
+"[GMove] Such map doesn't exist!"
+== "[GMove] Such map doesn't exist!"
+
+"[GMove] Such coords doesn't exist!"
+=="[GMove] Such coords doesn't exist!"
+
+"[GMove] You successfully moved to %s %d %d!"
+== "[GMove] You successfully moved to %s %d %d!"
+
+"[GMove] You successfully move %s to %s %d %d!"
+== "[GMove] You successfully move %s to %s %d %d!"
+
+"[GMove] You successfully moved to %s %d %d by %s!"
+== "[GMove] You successfully moved to %s %d %d by %s!"
+
+"[PkClear] %s is not pk!"
+== "[PkClear] %s is not pk!"
+
+"[PkClear] Your pk was cleared."
+== "[PkClear] Your pk was cleared."
+
+"[PkClear] You successfully clear %s pk."
+== "[PkClear] You successfully clear %s pk."
+
+"[PkClear] Your pk was cleared by %s."
+== "[PkClear] Your pk was cleared by %s."
+
+"[PkClear] Your are not pk!"
+== "[PkClear] Your are not pk!"
+
+"[PkClear] Your Pk successfully cleared!"
+== "[PkClear] Your Pk successfully cleared!"
+
+"[AddStats] You are not Dark Lord!!!"
+== "[AddStats] You are not Dark Lord!!!"
+
+"[AddStats] You can't add more than %d stats!!!"
+== "[AddStats] You can't add more than %d stats!!!"
+
+"[AddStats] You have max points for this type!!!"
+== "[AddStats] You have max points for this type!!!"
+
+"[AddStats] You don't have enough points to add. Need %d more."
+== "[AddStats] You don't have enough points to add. Need %d more."
+
+"[AddStats] You can't add more than %d points for this type!!!"
+== "[AddStats] You can't add more than %d points for this type!!!"
+
+"[AddStats] Your stats successfully added!"
+== "[AddStats] Your stats successfully added!"
+
+"[Ware] Close your vault first!"
+== "[Ware] Close your vault first!"
+
+"[Ware] Command is broken, relog and try again!"
+== "[Ware] Command is broken, relog and try again!"
+
+"[Ware] You can use from 1 to %d vaults!"
+== "[Ware] You can use from 1 to %d vaults!"
+
+"[Ware] You need to chose other vault number!"
+== "[Ware] You need to chose other vault number!"
+
+"[Ware] You successfully change vault from %d to %d!"
+== "[Ware] You successfully change vault from %d to %d!"
+
+"/mobadd <mobid> <count> <speed> <distance> <map> <x> <y>"
+== "/mobadd <mobid> <count> <speed> <distance> <map> <x> <y>"
+
+"[AddMob] %d Mob Successfully spawned (Map: %d, X: %d, Y: %d, MobID: %d)"
+== "[AddMob] %d Mob Successfully spawned (Map: %d, X: %d, Y: %d, MobID: %d)"
+
+"[SetDrop] Usage: /setdrop <ItemIndex> <ItemLvl> <ItemLuck> <ItemOpt> <ItemExc> <ItemAnc>"
+== "[SetDrop] Usage: /setdrop <ItemIndex> <ItemLvl> <ItemLuck> <ItemOpt> <ItemExc> <ItemAnc>"
+
+"[SetDrop] Item Created %d %d %d %d %d %d - Success"
+== "[SetDrop] Item Created %d %d %d %d %d %d - Success"
+
+"[SetDrop] Items Created to %s %d %d %d %d %d %d - Success"
+== "[SetDrop] Items Created to %s %d %d %d %d %d %d - Success"
+
+"[SetDrop] You lucked by %s with items! Take them faster!"
+==[SetDrop] You lucked by %s with items! Take them faster!"
+
+"[Check] PCPoints: %d, WCoins %d, WebPoints %.2f"
+== "[Check] PCPoints: %d, WCoins %d, WebPoints %.2f"
+
+"[Check] PCPoints: %d, WCoins %d, WebPoints %d"
+== "[Check] PCPoints: %d, WCoins %d, WebPoints %d"
+
+"[Check] PCPoints: %d, WCoins %d"
+== "[Check] PCPoints: %d, WCoins %d"
+
+"[VIP] You have %d min(s) left."
+== "[VIP] You have %d min(s) left."
+
+"[VIP] You haven't bought VIP yet."
+== "[VIP] You haven't bought VIP yet."
+
+"[VIP] You haven't bought VIP yet. Say %s and see the VIP Plans!"
+== "[VIP] You haven't bought VIP yet. Say %s and see the VIP Plans!"
+
+"[VipList] %s - %d PCPoints, %d WCoins, %d Zen, %d minimum hours, %d - maximum hours"
+== "[VipList] %s - %d PCPoints, %d WCoins, %d Zen, %d minimum hours, %d - maximum hours"
+
+"[Territory] You have %d min(s) left of %s territory."
+== "[Territory] You have %d min(s) left of %s territory."
+
+"[Territory] You haven't bought any territory."
+== "[Territory] You haven't bought any territory."
+
+"[Territory] There is no such territory name."
+== "[Territory] There is no such territory name."
+
+"[Territory] You have already %s territory, can't buy another."
+== "[Territory] You have already %s territory, can't buy another."
+
+"[Territory] You have already bought Territory."
+== "[Territory] You have already bought Territory."
+
+"[Territory] You can't buy less then %d and more than %d hours."
+== "[Territory] You can't buy less then %d and more than %d hours."
+
+"[Territory] You are too late, this territory are bought."
+== "[Territory] You are too late, this territory are bought."
+
+"[Territory] You aren't Master to buy territory."
+== "[Territory] You aren't Master to buy territory."
+
+"[Territory] You are low reset to buy territory."
+== "[Territory] You are low reset to buy territory."
+
+"[Territory] Successfully bought %s territory for %d Hour(s)"
+== "[Territory] Successfully bought %s territory for %d Hour(s)"
+
+"/vipbuy <name> <hours>"
+== "/vipbuy <name> <hours>"
+
+"[VIPBuy] You can't buy another type of vip."
+== "[VIPBuy] You can't buy another type of vip."
+
+"[VIPBuy] You have already bought VIP."
+== "[VIPBuy] You have already bought VIP."
+
+"[VIP] There are no such vip status."
+== "[VIP] There are no such vip status."
+
+"[VIP] You can't buy %s vip status."
+== "[VIP] You can't buy %s vip status."
+
+"[VIP] You can't buy less then %d and more than %d hours."
+== "[VIP] You can't buy less then %d and more than %d hours."
+
+"[VIPBuy] Successfully bought %s for %d Hour(s)"
+== "[VIPBuy] Successfully bought %s for %d Hour(s)"
+
+"[VIPBuy] Your VIP status starts right now!"
+== "[VIPBuy] Your VIP status starts right now!"
+
+"You aren't guild master or assistant"
+== "You aren't guild master or assistant"
+
+"IA Julia 1.1.%d.%d, Compiled %s %s"
+== "IA Julia 1.1.%d.%d, Compiled %s %s"
+
+"[SetZen] Zen can't be less than 1 and more than 2000000000!"
+== "[SetZen] Zen can't be less than 1 and more than 2000000000!"
+
+"[SetZen] Your zen was edited!"
+== "[SetZen] Your zen was edited!"
+
+"[SetZen] You successfully changed %s zen."
+== "[SetZen] You successfully changed %s zen."
+
+"[SetZen] Your zen was edited by %s!"
+== "[SetZen] Your zen was edited by %s!"
+
+"[VipOn] You don't have vip status."
+== "[VipOn] You don't have vip status."
+
+"[VipOn] Your vip status ended."
+== "[VipOn] Your vip status ended."
+
+"[VipOn] Your vip time is ticking."
+== "[VipOn] Your vip time is ticking."
+
+"[VipOn] Your can't use Vip On with this VIP type."
+== "[VipOn] Your can't use Vip On with this VIP type."
+
+"[VipOn] Your %s vip starts right now!"
+== "[VipOn] Your %s vip starts right now!"
+
+"[VipOff] You don't have vip status."
+== "[VipOff] You don't have vip status."
+
+"[VipOff] Your vip status ended."
+== "[VipOff] Your vip status ended."
+
+"[VipOff] Your vip is disabled."
+== "[VipOff] Your vip is disabled."
+
+"[VipOff] You can't vip off on VIP map!"
+== "[VipOff] You can't vip off on VIP map!"
+
+"[VipOff] Your can't use Vip Off with this VIP type."
+== "[VipOff] Your can't use Vip Off with this VIP type."
+
+"[VipOff] Your %s vip stoped!"
+== "[VipOff] Your %s vip stoped!"
+
+"[Name] /disablechat"
+== "[Name] /disablechat"
+
+"[DisableChat] %s chat banned."
+== "[DisableChat] %s chat banned."
+
+"[DisableChat] Your char was banned by %s."
+== "[DisableChat] Your char was banned by %s."
+
+"[Name] /enablechat"
+== "[Name] /enablechat"
+
+"[EnableChat] You unbanned %s chat."
+== "[EnableChat] You unbanned %s chat."
+
+"[EnableChat] You chat was unbanned by %s"
+== "[EnableChat] You chat was unbanned by %s"
+
+"[OffTrade] Personal Shop isn't oppened"
+== "[OffTrade] Personal Shop isn't oppened"
+
+"[OffTrade] You can use OffTrade only in Lorencia"
+== "[OffTrade] You can use OffTrade only in Lorencia"
+
+"[Exchanger] You write not right value. Write %d or %d."
+== "[Exchanger] You write not right value. Write %d or %d."
+
+"[Exchanger] You write not right value. Write %d."
+== "[Exchanger] You write not right value. Write %d."
+
+"[Exchanger] You don't have enough %s. %d more need."
+== "[Exchanger] You don't have enough %s. %d more need."
+
+"[Exchanger] You can't buy more %s."
+== "[Exchanger] You can't buy more %s."
+
+"[Exchanger] You buy %d %s for %d %s! Thx you!"
+== "[Exchanger] You buy %d %s for %d %s! Thx you!"
+
+"[Exchanger] You don't have enough %s. %d more need."
+== "[Exchanger] You don't have enough %s. %d more need."
+
+"[Exchanger] You can't buy more %s."
+== "[Exchanger] You can't buy more %s."
+
+"[Exchanger] To more, to exchange."
+== "[Exchanger] To more, to exchange."
+
+"[Exchanger] You buy %d %s for %d %s! Thx you!"
+== "[Exchanger] You buy %d %s for %d %s! Thx you!"
+
+"[Exchanger] Function temporarily disabled"
+== "[Exchanger] Function temporarily disabled"
+
+"[Drop] You lucked by %s with %d items! Take them faster!"
+== "[Drop] You lucked by %s with %d items! Take them faster!"
+
+"[Reload] GMSystem is disabled"
+== "[Reload] GMSystem is disabled"
+
+"[SetDrop] You lucked by %s with items! Take them faster!"
+== "[SetDrop] You lucked by %s with items! Take them faster!"
+
+"[Happy Hour] %s will start in %d min." 
+== "[Happy Hour] %s will start in %d min."
+
+"[Happy Hour] %s will end in %d min." 
+== "[Happy Hour] %s will end in %d min."
+
+"[AntiHack][%s] Lahap Trade-Dupe Attempt, Trade: %s[%d], Action: %d" 
+== "[AntiHack][%s] Lahap Trade-Dupe Attempt, Trade: %s[%d], Action: %d"
+
+"[Moss The Gambler] PK player don`t use Moss The Gambler "
+== "[Moss The Gambler] PK player don`t use Moss The Gambler"
+
+"[Moss The Gambler] Moss is closed "
+== "[Moss The Gambler] Moss is closed"
+
+"[%s] You don't have enough Zen, you need %d more!"
+== "[%s] You don't have enough Zen, you need %d more!"
+
+"You don't have enough WCoin, you need %d more! "
+== "You don't have enough WCoin, you need %d more!"
+
+"You don't have enough PcPoint, you need %d more!" 
+== "You don't have enough PcPoint, you need %d more!"
+
+"You don't have enough WebPoints, you need %.2f more! "
+== "You don't have enough WebPoints, you need %.2f more!"
+
+"You don't have enough WebPoints, you need %d more! "
+== "You don't have enough WebPoints, you need %d more!"
+
+"You don't have enough Resets, you need %d more resets. "
+== "You don't have enough Resets, you need %d more resets."
+
+"[%s] You don't have enough Level, you need %d more Level." 
+== "[%s] You don't have enough Level, you need %d more Level."
+
+"[Guard] You pay %d WebPoints"
+== "[Guard] You pay %d WebPoints"
+
+"[Guard] You pay %d PcPoints"
+== "[Guard] You pay %d PcPoints"
+
+"[Guard] You pay %d WCoin"
+== "[Guard] You pay %d WCoin"
+
+"[Guard] You pay %d Zen"
+== "[Guard] You pay %d Zen"
+
+"Cleaned %d kills. Don't tell anyone!"
+== "Cleaned %d kills. Don't tell anyone!"
+
+"Moss The Gambler is closed"
+== "Moss The Gambler is closed"
+
+"[Moss The Gambler] Please wait 1.5 second after a previous purchase"
+== "[Moss The Gambler] Please wait 1.5 second after a previous purchase"
+
+"[Moss The Gambler] You haven't got enough money"
+== "[Moss The Gambler] You haven't got enough money"
+
+"[Moss The Gambler] You haven't got enough PCPoint"
+== "[Moss The Gambler] You haven't got enough PCPoint"
+
+"[Moss The Gambler] You haven't got enough WCoin"
+== "[Moss The Gambler] You haven't got enough WCoin"
+
+"[Moss The Gambler] You inventory is full"
+== "[Moss The Gambler] You inventory is full"
+
+"[Moss The Gambler] Congratulations, you are very lucky!!!"
+== "[Moss The Gambler] Congratulations, you are very lucky!!!"
+
+"[PointShop] You earned %d Points for being online!"
+== "[PointShop] You earned %d Points for being online!
+
+"[PointShop] You have been online %d Hours!"
+== "[PointShop] You have been online %d Hours!"
+
+"[PointShop] Your inventory is full !"
+== "[PointShop] Your inventory is full !"
+
+"[PointShop] Can`t buy, need %d more PCPoints!"
+== "[PointShop] Can`t buy, need %d more PCPoints!"
+
+"[WebPoints] You have maximum WebPoints"
+== "[WebPoints] You have maximum WebPoints"
+
+"[WebPoints] You have maximum WebPoints"
+== "[WebPoints] You have maximum WebPoints"
+
+"[PCPoint] You have maximum PCPoints"
+== "[PCPoint] You have maximum PCPoints"
+
+"[WCoins] You have maximum WCoins"
+== "[WCoins] You have maximum WCoins"
+
+"[PCPoint] You earned %d PCPoints"
+== "[PCPoint] You earned %d PCPoints"
+
+"[WCoin] You earned %d WCoins"
+== "[WCoin] You earned %d WCoins"
+
+"[PointShop] Allow Only in Lorencia,Devias,Noria,Elbeland"
+== "[PointShop] Allow Only in Lorencia,Devias,Noria,Elbeland"
+
+"[ResetSystem] Command disabled!"
+== "[ResetSystem] Command disabled!"
+
+"[Reset System] Disabled."
+== "[Reset System] Disabled."
+
+"[Reset System]You have max resets. You can't make more resets."
+== "[Reset System]You have max resets. You can't make more resets."
+
+"[Reset System]You don't have %d level. Need %d level more. Now you are only %d level."
+== "[Reset System]You don't have %d level. Need %d level more. Now you are only %d level."
+
+"[Reset System]You don't have %d zen. Need %d more zen. Now you have only %d zen."
+== "[Reset System]You don't have %d zen. Need %d more zen. Now you have only %d zen."
+
+"[Reset System]You don't have %d PcPoints. Need %d more PcPoints. Now you have only %d PcPoints."
+== "[Reset System]You don't have %d PcPoints. Need %d more PcPoints. Now you have only %d PcPoints."
+
+"[Reset System]You don't have %d WCoin. Need %d more WCoin. Now you have only %d WCoin."
+== "[Reset System]You don't have %d WCoin. Need %d more WCoin. Now you have only %d WCoin."
+
+"[Reset System]You don't have right items. Check it one more time."
+== "[Reset System]You don't have right items. Check it one more time."
+
+"[Evo] Congratulations! Now you is a Master."
+== "[Evo] Congratulations! Now you is a Master."
+
+"[Evo] Sorry, you is already a master."
+== "[Evo] Sorry, you is already a master."
+
+"[Evo] You need to have the second class before."
+== "[Evo] You need to have the second class before."
+
+"[Zen] Zen can't be less than 1 and more than 2000000000!"
+== "[Zen] Zen can't be less than 1 and more than 2000000000!"
+
+"[Clear Inventory] You have cleaned your inventory!"
+== "[Clear Inventory] You have cleaned your inventory!"
+
+"[Territory] You have %d more minutes of %s territory"
+== "[Territory] You have %d more minutes of %s territory"
+
+"[Territory] Your territory time is over! You are normal player again."
+== "[Territory] Your territory time is over! You are normal player again."
+
+"[Territory] You enter on %s territory. Timer started on %d min."
+== "[Territory] You enter on %s territory. Timer started on %d min."
+
+"[Territory] You go out of %s territory. Timer stoped on %d min."
+== "[Territory] You go out of %s territory. Timer stoped on %d min."
+
+"[Territory] You don't have access to enter %s territory."
+== "[Territory] You don't have access to enter %s territory."
+
+"[Territory] Left %d minutes of %s territory."
+== "[Territory] Left %d minutes of %s territory."
+
+"[Warehouse] You can't move that item to Warehouse!"
+== "[Warehouse] You can't move that item to Warehouse!"
+
+"[GroundDrop] You can't drop that item to the ground!"
+== "[GroundDrop] You can't drop that item to the ground!"
+
+"[PersonalStore] You can't move that item to PersonalStore!"
+== "[PersonalStore] You can't move that item to PersonalStore!"
+
+"[Party] You can't stay with %s in party! %s needs %d more lvl."
+== "[Party] You can't stay with %s in party! %s needs %d more lvl."
+
+"[Party] You can't stay with %s in party! You need %d more lvl."
+== "[Party] You can't stay with %s in party! You need %d more lvl."
+
+"[Login] Your reset (%d) is too high for this server (%d)!"
+== "[Login] Your reset (%d) is too high for this server (%d)!"
+
+"Server Time & Date: %02d:%02d:%02d %02d-%02d-%04d."
+== "Server Time & Date: %02d:%02d:%02d %02d-%02d-%04d."
+
+"[Admin] %s join the game!"
+== "[Admin] %s join the game!"
+
+"[GM] %s join the game!"
+== "[GM] %s join the game!"
+
+"[Admin] %s exit the game!"
+== "[Admin] %s exit the game!"
+
+"[GM] %s exit the game!"
+== "[GM] %s exit the game!"
+
+"[VIP] Left %d minutes of VIP."
+== "[VIP] Left %d minutes of VIP."
+
+"[VIP] Your vip is starting! To stop that, write /vip off"
+== "[VIP] Your vip is starting! To stop that, write /vip off"
+
+"[VIP] Your vip stoped! To start it, write /vip on"
+== "[VIP] Your vip stoped! To start it, write /vip on"
+
+"[VIP] You don't have access to enter %s map."
+== "[VIP] You don't have access to enter %s map."
+
+"[VIP] You have %d more vip minutes"
+== "[VIP] You have %d more vip minutes"
+
+"[VIP] Your vip time is over! You are normal player again."
+== "[VIP] Your vip time is over! You are normal player again."
+
+"/ismarry <name>"
+== "/ismarry <name>"
+
+"[Marry] Player's offline or doesn't exist!!!"
+== "[Marry] Player's offline or doesn't exist!!!"
+
+"[Marry] %s is married on %s!!!"
+== "[Marry] %s is married on %s!!!"
+
+"[Marry] %s is not married!!!"
+== "[Marry] %s is not married!!!"
+
+"[Marry] You are not married!"
+== "[Marry] You are not married!"
+
+"[Marry] %s is offline"
+== "[Marry] %s is offline"
+
+"[Marry] %s is now online!"
+== "[Marry] %s is now online!"
+
+"[Marry] You are not married or your marriage is offline!"
+== "[Marry] You are not married or your marriage is offline!"
+
+"[Marry] Your marriage is inside event map, you cannot teleport"
+== "[Marry] Your marriage is inside event map, you cannot teleport"
+
+"[Marry] You successfully moved to %s!"
+== "[Marry] You successfully moved to %s!"
+
+"[Marry] %s successfully moved to you!"
+== "[Marry] %s successfully moved to you!"
+
+"[Divorce] You are not married!"
+== "[Divorce] You are not married!"
+
+"[Divorce] Your ex. marriage is offline."
+== "[Divorce] Your ex. marriage is offline."
+
+"[Marry] You are divorced!"
+== "[Marry] You are divorced!"
+
+"[Marry] You divorced with %s!"
+== "[Marry] You divorced with %s!"
+
+"Devias Marriage!"
+== "Devias Marriage!"
+
+"You called off the wedding"
+== "You called off the wedding"
+
+"The wedding was canceled by %s!"
+== "The wedding was canceled by %s!"
+
+"[Marriage] The wedding was canceled by %s!"
+== "[Marriage] The wedding was canceled by %s!"
